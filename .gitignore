@@ -1,0 +1,21 @@
+# Compiled output
+bin/
+out/
+*.class
+
+# IDE folders
+.idea/
+.vscode/
+*.iml
+.settings/
+.project
+.classpath
+nbproject/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
